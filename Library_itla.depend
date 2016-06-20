@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1466435498 source:c:\users\usuario\desktop\carlosr\eclipse projects c mas mas\library_itla\src\main.cpp
+	<iostream>
+	"Menu.h"
+	<stdio.h>
+	<cstdlib>
+	<istream>
+
+1466303836 c:\users\usuario\desktop\carlosr\eclipse projects c mas mas\library_itla\src\menu.h
+
+1466431206 source:c:\users\usuario\desktop\carlosr\eclipse projects c mas mas\library_itla\src\menu.cpp
+	"Menu.h"
+	<iostream>
+
